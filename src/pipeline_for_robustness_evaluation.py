@@ -33,7 +33,7 @@ parser.add_argument('--debug',
                     help='Runs the attack in debug mode. Used for '
                          'testing the loss function, and for '
                          'inspecting a single adversarial example.',
-                    default=True, action='store_true')
+                    default=False, action='store_true')
 parser.add_argument('--samples', type=int, help='Number of samples to use.', default=5)
 
 args = parser.parse_args()
