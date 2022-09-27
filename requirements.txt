@@ -5,3 +5,4 @@ torch
 torchvision
 foolbox
 jupyter
+pyqt5
