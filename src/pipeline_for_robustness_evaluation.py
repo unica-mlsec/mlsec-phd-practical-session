@@ -16,7 +16,7 @@ from utils import run_debug
 steps:
 1. go to https://github.com/RobustBench/robustbench
 2. search for the IDs that you want and add them to the list below
-    - recommended: Standard and Engstrom2019RobustnessNet
+    - recommended: Standard and Engstrom2019Robustness
 """
 
 MODEL_NAMES = []
